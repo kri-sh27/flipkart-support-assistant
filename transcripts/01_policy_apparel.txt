@@ -1,0 +1,2 @@
+USER: Can I return footwear after delivery?
+ASSISTANT: {"answer": "Apparel and footwear may be returned within 7 days of delivery when the item is unused, unwashed, and has its original tags attached", "source": "policy_apparel_footwear_returns", "confidence": 0.761859655380249}

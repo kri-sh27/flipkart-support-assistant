@@ -1,0 +1,2 @@
+USER: What category is this? IMAGE: data/sample_images/00003_trouser.png
+ASSISTANT: {"answer": "The predicted product category is Trouser with confidence 0.996.", "source": "image_classifier_tool", "confidence": 0.996241569519043}

@@ -1,0 +1,170 @@
+[
+  {
+    "document_id": "policy_apparel_footwear_returns",
+    "title": "Apparel and footwear returns",
+    "text": "Apparel and footwear may be returned within 7 days of delivery when the item is unused, unwashed, and has its original tags attached",
+    "embedding_text": "Apparel and footwear returns. Apparel and footwear may be returned within 7 days of delivery when the item is unused, unwashed, and has its original tags attached"
+  },
+  {
+    "document_id": "policy_apparel_footwear_returns",
+    "title": "Apparel and footwear returns",
+    "text": "Size or fit issues are eligible when the item passes the condition check",
+    "embedding_text": "Apparel and footwear returns. Size or fit issues are eligible when the item passes the condition check"
+  },
+  {
+    "document_id": "policy_electronics_returns",
+    "title": "Electronics returns",
+    "text": "Electronics generally have a 7-day replacement window for eligible manufacturing defects",
+    "embedding_text": "Electronics returns. Electronics generally have a 7-day replacement window for eligible manufacturing defects"
+  },
+  {
+    "document_id": "policy_electronics_returns",
+    "title": "Electronics returns",
+    "text": "Replacement requires the product, accessories, and packaging to be available for verification",
+    "embedding_text": "Electronics returns. Replacement requires the product, accessories, and packaging to be available for verification"
+  },
+  {
+    "document_id": "policy_home_returns",
+    "title": "Home returns",
+    "text": "Eligible home products may be returned within 10 days of delivery if they are unused and in resalable condition",
+    "embedding_text": "Home returns. Eligible home products may be returned within 10 days of delivery if they are unused and in resalable condition"
+  },
+  {
+    "document_id": "policy_home_returns",
+    "title": "Home returns",
+    "text": "Large or assembled items can require an inspection before reverse pickup is approved",
+    "embedding_text": "Home returns. Large or assembled items can require an inspection before reverse pickup is approved"
+  },
+  {
+    "document_id": "policy_cod_refunds",
+    "title": "COD refunds",
+    "text": "For a cash-on-delivery order, an approved refund is processed to the bank account or payment destination confirmed during the refund workflow",
+    "embedding_text": "COD refunds. For a cash-on-delivery order, an approved refund is processed to the bank account or payment destination confirmed during the refund workflow"
+  },
+  {
+    "document_id": "policy_cod_refunds",
+    "title": "COD refunds",
+    "text": "Bank processing can take 5 to 7 business days after the refund is initiated",
+    "embedding_text": "COD refunds. Bank processing can take 5 to 7 business days after the refund is initiated"
+  },
+  {
+    "document_id": "policy_delivery_sla",
+    "title": "Delivery SLA",
+    "text": "Standard delivery is normally completed within 3 to 7 business days after dispatch",
+    "embedding_text": "Delivery SLA. Standard delivery is normally completed within 3 to 7 business days after dispatch"
+  },
+  {
+    "document_id": "policy_delivery_sla",
+    "title": "Delivery SLA",
+    "text": "Remote locations and exceptional logistics events can extend the estimated delivery date",
+    "embedding_text": "Delivery SLA. Remote locations and exceptional logistics events can extend the estimated delivery date"
+  },
+  {
+    "document_id": "policy_reverse_pickup",
+    "title": "Reverse pickup eligibility",
+    "text": "Reverse pickup is available when the order is return-eligible and the pickup location is serviceable",
+    "embedding_text": "Reverse pickup eligibility. Reverse pickup is available when the order is return-eligible and the pickup location is serviceable"
+  },
+  {
+    "document_id": "policy_reverse_pickup",
+    "title": "Reverse pickup eligibility",
+    "text": "The item must meet the applicable condition requirements before pickup is confirmed",
+    "embedding_text": "Reverse pickup eligibility. The item must meet the applicable condition requirements before pickup is confirmed"
+  },
+  {
+    "document_id": "policy_exchange_size",
+    "title": "Size exchange",
+    "text": "Eligible apparel and footwear can be exchanged for another available size during the applicable return window",
+    "embedding_text": "Size exchange. Eligible apparel and footwear can be exchanged for another available size during the applicable return window"
+  },
+  {
+    "document_id": "policy_exchange_size",
+    "title": "Size exchange",
+    "text": "The original item must satisfy the same condition checks used for a return",
+    "embedding_text": "Size exchange. The original item must satisfy the same condition checks used for a return"
+  },
+  {
+    "document_id": "policy_damaged_item",
+    "title": "Damaged item",
+    "text": "A visibly damaged item should be reported as soon as possible after delivery",
+    "embedding_text": "Damaged item. A visibly damaged item should be reported as soon as possible after delivery"
+  },
+  {
+    "document_id": "policy_damaged_item",
+    "title": "Damaged item",
+    "text": "Keep the packaging and product photographs available because they may be requested during verification",
+    "embedding_text": "Damaged item. Keep the packaging and product photographs available because they may be requested during verification"
+  },
+  {
+    "document_id": "policy_missing_accessories",
+    "title": "Missing accessories",
+    "text": "For products with bundled accessories, return or replacement review can require all included accessories",
+    "embedding_text": "Missing accessories. For products with bundled accessories, return or replacement review can require all included accessories"
+  },
+  {
+    "document_id": "policy_missing_accessories",
+    "title": "Missing accessories",
+    "text": "Missing components may delay or affect eligibility after inspection",
+    "embedding_text": "Missing accessories. Missing components may delay or affect eligibility after inspection"
+  },
+  {
+    "document_id": "policy_return_condition",
+    "title": "Return condition",
+    "text": "Returned products should be unused, undamaged, and complete with original packaging, labels, manuals, and accessories when applicable",
+    "embedding_text": "Return condition. Returned products should be unused, undamaged, and complete with original packaging, labels, manuals, and accessories when applicable"
+  },
+  {
+    "document_id": "policy_return_condition",
+    "title": "Return condition",
+    "text": "Final eligibility is determined during the return inspection",
+    "embedding_text": "Return condition. Final eligibility is determined during the return inspection"
+  },
+  {
+    "document_id": "policy_refund_after_pickup",
+    "title": "Refund after pickup",
+    "text": "For a return that requires reverse pickup, the refund process begins after the returned item passes the required verification",
+    "embedding_text": "Refund after pickup. For a return that requires reverse pickup, the refund process begins after the returned item passes the required verification"
+  },
+  {
+    "document_id": "policy_refund_after_pickup",
+    "title": "Refund after pickup",
+    "text": "The final credit time depends on the payment method and banking network",
+    "embedding_text": "Refund after pickup. The final credit time depends on the payment method and banking network"
+  },
+  {
+    "document_id": "policy_cancel_before_dispatch",
+    "title": "Cancellation before dispatch",
+    "text": "An order can generally be cancelled before it enters dispatch processing",
+    "embedding_text": "Cancellation before dispatch. An order can generally be cancelled before it enters dispatch processing"
+  },
+  {
+    "document_id": "policy_cancel_before_dispatch",
+    "title": "Cancellation before dispatch",
+    "text": "Once dispatch has started, cancellation may no longer be available and the customer may need to use the return process after delivery",
+    "embedding_text": "Cancellation before dispatch. Once dispatch has started, cancellation may no longer be available and the customer may need to use the return process after delivery"
+  },
+  {
+    "document_id": "policy_nonreturnable",
+    "title": "Non-returnable products",
+    "text": "Certain hygiene-sensitive, personalized, or otherwise restricted products may be non-returnable",
+    "embedding_text": "Non-returnable products. Certain hygiene-sensitive, personalized, or otherwise restricted products may be non-returnable"
+  },
+  {
+    "document_id": "policy_nonreturnable",
+    "title": "Non-returnable products",
+    "text": "The product page's return eligibility information takes precedence for such items",
+    "embedding_text": "Non-returnable products. The product page's return eligibility information takes precedence for such items"
+  },
+  {
+    "document_id": "policy_pickup_attempt",
+    "title": "Pickup attempts",
+    "text": "A reverse pickup may be rescheduled when the first attempt fails for a serviceable address",
+    "embedding_text": "Pickup attempts. A reverse pickup may be rescheduled when the first attempt fails for a serviceable address"
+  },
+  {
+    "document_id": "policy_pickup_attempt",
+    "title": "Pickup attempts",
+    "text": "Customers should keep the package ready and accessible for the next scheduled attempt",
+    "embedding_text": "Pickup attempts. Customers should keep the package ready and accessible for the next scheduled attempt"
+  }
+]

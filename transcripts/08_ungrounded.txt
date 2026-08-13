@@ -1,0 +1,2 @@
+USER: What is Flipkart's policy for moon-base deliveries?
+ASSISTANT: {"answer": "I don't have enough grounded information in the policy knowledge base to answer that reliably.", "source": "groundedness_guardrail", "confidence": 0.0}

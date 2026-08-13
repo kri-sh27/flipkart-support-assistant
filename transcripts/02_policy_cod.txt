@@ -1,0 +1,2 @@
+USER: When will my COD refund arrive?
+ASSISTANT: {"answer": "Bank processing can take 5 to 7 business days after the refund is initiated", "source": "policy_cod_refunds", "confidence": 0.7640184164047241}

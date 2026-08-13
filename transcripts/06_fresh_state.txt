@@ -1,0 +1,2 @@
+USER: What order ID did I mention earlier?
+ASSISTANT: {"answer": "I don't have an order ID available in the current conversation.", "source": "conversation_state", "confidence": 0.0}
