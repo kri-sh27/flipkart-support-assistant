@@ -7,3 +7,22 @@ __pycache__/
 # Keep generated artifacts required by the brief; ignore only raw Fashion-MNIST downloads.
 data/FashionMNIST/raw/
 data/FashionMNIST/processed/
+
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# PyTorch / training caches
+data/train_features.pt
+data/val_features.pt
+data/test_features.pt
+
+# Local ML caches
+data/fashion_mnist/
+*.cache
+
+# IDE
+.vscode/
+.idea/
