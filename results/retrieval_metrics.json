@@ -1,0 +1,7 @@
+{
+  "num_queries": 8,
+  "mean_precision_at_3": 0.333,
+  "mean_recall_at_3": 1.0,
+  "queries_with_recall_at_3": 8,
+  "total_queries": 8
+}
