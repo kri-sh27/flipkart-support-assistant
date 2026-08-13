@@ -1,0 +1,6 @@
+feature,permutation_mean_auc_drop
+payment_method,0.09554907516072556
+price_inr,0.00728175097107131
+delivery_distance_km,-0.00028094882463820526
+delivery_days,-0.0006172180929463033
+customer_tenure_days,-0.003981491360132228

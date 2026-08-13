@@ -1,0 +1,225 @@
+{
+  "device": "cpu",
+  "split_sizes": {
+    "train": 55000,
+    "validation": 5000,
+    "test": 10000
+  },
+  "batch_size": 128,
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "epochs_head": 8,
+  "feature_extraction_validation_accuracy": 0.887,
+  "fine_tuned": false,
+  "final_validation_accuracy": 0.887,
+  "test_accuracy": 0.8781,
+  "confusion_matrix": [
+    [
+      803,
+      4,
+      21,
+      45,
+      5,
+      1,
+      113,
+      0,
+      7,
+      1
+    ],
+    [
+      2,
+      965,
+      2,
+      27,
+      1,
+      0,
+      2,
+      0,
+      1,
+      0
+    ],
+    [
+      11,
+      0,
+      826,
+      9,
+      68,
+      0,
+      82,
+      0,
+      4,
+      0
+    ],
+    [
+      10,
+      3,
+      18,
+      893,
+      23,
+      0,
+      52,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      54,
+      43,
+      792,
+      0,
+      108,
+      0,
+      3,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      947,
+      1,
+      41,
+      2,
+      9
+    ],
+    [
+      110,
+      1,
+      42,
+      50,
+      95,
+      1,
+      689,
+      0,
+      11,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      26,
+      0,
+      952,
+      2,
+      20
+    ],
+    [
+      2,
+      0,
+      2,
+      3,
+      1,
+      3,
+      11,
+      0,
+      977,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      12,
+      1,
+      49,
+      1,
+      937
+    ]
+  ],
+  "classification_report": {
+    "T-shirt/top": {
+      "precision": 0.8560767590618337,
+      "recall": 0.803,
+      "f1-score": 0.8286893704850361,
+      "support": 1000.0
+    },
+    "Trouser": {
+      "precision": 0.9917780061664954,
+      "recall": 0.965,
+      "f1-score": 0.9782057780030411,
+      "support": 1000.0
+    },
+    "Pullover": {
+      "precision": 0.8559585492227979,
+      "recall": 0.826,
+      "f1-score": 0.8407124681933842,
+      "support": 1000.0
+    },
+    "Dress": {
+      "precision": 0.8345794392523365,
+      "recall": 0.893,
+      "f1-score": 0.8628019323671497,
+      "support": 1000.0
+    },
+    "Coat": {
+      "precision": 0.8040609137055837,
+      "recall": 0.792,
+      "f1-score": 0.7979848866498741,
+      "support": 1000.0
+    },
+    "Sandal": {
+      "precision": 0.9565656565656566,
+      "recall": 0.947,
+      "f1-score": 0.9517587939698492,
+      "support": 1000.0
+    },
+    "Shirt": {
+      "precision": 0.6506137865911237,
+      "recall": 0.689,
+      "f1-score": 0.6692569208353569,
+      "support": 1000.0
+    },
+    "Sneaker": {
+      "precision": 0.9136276391554703,
+      "recall": 0.952,
+      "f1-score": 0.9324191968658179,
+      "support": 1000.0
+    },
+    "Bag": {
+      "precision": 0.9682854311199207,
+      "recall": 0.977,
+      "f1-score": 0.9726231956197113,
+      "support": 1000.0
+    },
+    "Ankle boot": {
+      "precision": 0.9669762641898865,
+      "recall": 0.937,
+      "f1-score": 0.9517521584560691,
+      "support": 1000.0
+    },
+    "accuracy": 0.8781,
+    "macro avg": {
+      "precision": 0.8798522445031104,
+      "recall": 0.8781000000000001,
+      "f1-score": 0.8786204701445289,
+      "support": 10000.0
+    },
+    "weighted avg": {
+      "precision": 0.8798522445031105,
+      "recall": 0.8781,
+      "f1-score": 0.8786204701445292,
+      "support": 10000.0
+    }
+  },
+  "classes": [
+    "T-shirt/top",
+    "Trouser",
+    "Pullover",
+    "Dress",
+    "Coat",
+    "Sandal",
+    "Shirt",
+    "Sneaker",
+    "Bag",
+    "Ankle boot"
+  ]
+}

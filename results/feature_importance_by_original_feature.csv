@@ -1,0 +1,12 @@
+original_feature,importance
+payment_method,0.26920166417758096
+price_inr,0.13226728154427536
+delivery_distance_km,0.09567454153021013
+customer_tenure_days,0.09001289001920373
+delivery_days,0.08844907146116973
+discount_pct,0.08592219836361278
+product_category,0.0794909439898344
+num_previous_orders,0.0630226950878971
+num_previous_returns,0.0460257198622096
+rating_given,0.03962689264659665
+is_weekend_order,0.010306101317409565
